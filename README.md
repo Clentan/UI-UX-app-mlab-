@@ -63,10 +63,6 @@ Users should be able to:
 
 - React JS
 - Tailwind CSS
-- [VSCode](https://code.visualstudio.com/) - Visual Studio Code
 
 
-## Author
 
-- Frontend Mentor - [@johnmaizo](https://www.frontendmentor.io/profile/johnmaizo)
-- Twitter - [@johnmaizo](https://twitter.com/johnmaizo)
