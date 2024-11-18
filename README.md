@@ -26,7 +26,7 @@ This is a solution to the [Social media dashboard with theme switcher on Fronten
 <h2 align="center">Links</h2>
 
 - Solution URL: [Social media dashboard with theme switcher using React JS, Tailwind CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/social-media-dashboard-using-react-js-tailwind-css-tf4ZeEOl6f)
-- Live Site URL: [https://social-media-dashboard-johnmaizo.netlify.app/](https://social-media-dashboard-johnmaizo.netlify.app/)
+
 
 <br>
 
