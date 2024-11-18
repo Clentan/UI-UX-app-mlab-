@@ -9,7 +9,7 @@
     <a href="https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://social-media-dashboard-johnmaizo.netlify.app/">View Demo</a>
+
   </p>
 </div>
 
